@@ -16,6 +16,9 @@ Implementation of high-level network services and protocol simulations.
 - `ftp.txt`
 > *Configuration guidelines and commands for file transfer operations.*
 
+### 🔹 Additional Experiments
+- [**Experiments**](./Experiments): Includes SMTP socket simulations, Ethereal trace analysis, and FTP client implementations from the lab module.
+
 ---
 
 ## 🔍 Key Features

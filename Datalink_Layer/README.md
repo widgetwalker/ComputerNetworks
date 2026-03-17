@@ -21,6 +21,9 @@ This folder contains implementations of core flow control and error control algo
 - `selectARQsender.py` / `selectARQ.py`
 > *Optimized pipelining: Only the damaged or lost frames are retransmitted.*
 
+### 🔹 ARQ Simulations (Lab Integrated)
+- [**ARQ_Simulations**](./ARQ_Simulations): Comprehensive set of simulations including Stop-and-Wait, GBN, and Selective Repeat with detailed sequence tracking.
+
 ---
 
 ## 🧪 Simulation Logic

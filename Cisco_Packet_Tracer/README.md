@@ -19,6 +19,15 @@ Network topologies and configurations designed for Cisco Packet Tracer.
 - `ex_3_vtp_server.pkt`: VLAN Trunking Protocol (VTP) simulation.
 - `lab3_20nc.pkt`: Large scale network configuration.
 
+### 🔹 Additional Lab Topologies (from Lab Folder)
+- `Extra_Labs/basic-commands.pkt`: CLI practice and basic config.
+- `Extra_Labs/connect-pc.pkt`: Simple PC connectivity.
+- `Extra_Labs/star-topology.pkt`: Star topology example.
+- `Extra_Labs/two-lan-1-router.pkt`: Router between two LANs.
+- `Extra_Labs/3-routers.pkt`: 3-router network mesh.
+- `Extra_Labs/vtp.pkt`: Extra VTP practice.
+- `Extra_Labs/test.pkt`: Misc test setup.
+
 ---
 
 ## 🛠️ How to View

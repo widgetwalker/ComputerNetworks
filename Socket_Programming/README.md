@@ -17,6 +17,10 @@ A collection of client-server architectures demonstrating fundamental network co
 ### 🔹 Exam Preparation
 - `exam server.py` & `exam client.py`: Consolidated implementations for quick reference.
 
+### 🔹 Integrated Lab Experiments
+- [**01_socket_basics**](./01_socket_basics): Detailed TCP/UDP starting examples.
+- [**02_duplex_chat**](./02_duplex_chat): Enhanced half/full duplex implementations.
+
 ---
 
 ## 📡 Architecture

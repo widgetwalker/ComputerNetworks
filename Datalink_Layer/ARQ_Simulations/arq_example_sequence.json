@@ -1,0 +1,10 @@
+[
+  {"time": 0, "type": "send", "role": "sender", "seq": 0, "status": "ok"},
+  {"time": 1, "type": "ack", "role": "receiver", "seq": 0, "status": "ok"},
+  {"time": 2, "type": "send", "role": "sender", "seq": 1, "status": "ok"},
+  {"time": 3, "type": "ack", "role": "receiver", "seq": 1, "status": "lost"},
+  {"time": 4, "type": "timeout", "role": "sender", "seq": 1, "status": "timeout"},
+  {"time": 5, "type": "send", "role": "sender", "seq": 1, "status": "retransmit"},
+  {"time": 6, "type": "ack", "role": "receiver", "seq": 1, "status": "ok"}
+]
+
