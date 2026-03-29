@@ -8,7 +8,7 @@ Welcome to the comprehensive repository for **Computer Networks** laboratory pro
 
 | Category | Description |
 | :--- | :--- |
-| [**📄 Lab Record**](./Lab_Record.md) | **Complete documentation of all 6 experiments (Aim, Procedure, Code, Result).** |
+
 | [**🔌 Socket Programming**](./Socket_Programming) | Core networking using TCP/UDP, Full/Half Duplex, Multi-threading, and Cache simulations. |
 | [**✉️ Application Layer**](./Application_Layer) | Implementation of high-level protocols like SMTP, FTP, and HTTP (Requests). |
 | [**🛠️ Datalink Layer**](./Datalink_Layer) | Flow control and error control protocols (Stop & Wait, GBN, Selective Repeat, ARQ). |
