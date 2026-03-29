@@ -8,14 +8,15 @@ Welcome to the comprehensive repository for **Computer Networks** laboratory pro
 
 | Category | Description |
 | :--- | :--- |
-| [**🛠️ Datalink Layer**](./Datalink_Layer) | Flow control and error control protocols (Stop & Wait, GBN, Selective Repeat, ARQ Simulations). |
-| [**🔌 Socket Programming**](./Socket_Programming) | Core networking using TCP/UDP, Full/Half Duplex communication, and basic socket patterns. |
-| [**✉️ Application Layer**](./Application_Layer) | Implementation of high-level protocols like SMTP and FTP. |
-| [**⚡ Cisco Packet Tracer**](./Cisco_Packet_Tracer) | Network topology simulations and routing configurations (including extra lab topologies). |
+| [**📄 Lab Record**](./Lab_Record.md) | **Complete documentation of all 6 experiments (Aim, Procedure, Code, Result).** |
+| [**🔌 Socket Programming**](./Socket_Programming) | Core networking using TCP/UDP, Full/Half Duplex, Multi-threading, and Cache simulations. |
+| [**✉️ Application Layer**](./Application_Layer) | Implementation of high-level protocols like SMTP, FTP, and HTTP (Requests). |
+| [**🛠️ Datalink Layer**](./Datalink_Layer) | Flow control and error control protocols (Stop & Wait, GBN, Selective Repeat, ARQ). |
+| [**⚡ Cisco Packet Tracer**](./Cisco_Packet_Tracer) | Network topology simulations and routing configurations. |
 | [**🔐 Security & TLS**](./Security_TLS) | Encrypted communication using SSL/TLS and certificate management. |
 | [**🧠 Memcache Simulation**](./Memcache_Simulation) | Advanced simulation of distributed memory caching systems. |
 | [**📄 Docs**](./Docs) | Comparative study of protocols and roadmap. |
-| [**🧪 net_lab.py**](./net_lab.py) | Consolidated utility for laboratory network simulations. |
+
 
 ---
 
